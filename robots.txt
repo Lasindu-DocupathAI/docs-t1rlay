@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-sam3bo.mysteryboxcolowin.com/sitemap.xml
